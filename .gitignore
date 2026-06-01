@@ -32,3 +32,4 @@
 /config/*.key
 
 /config/database.yml
+.env
